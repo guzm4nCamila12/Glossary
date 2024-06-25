@@ -6,7 +6,10 @@
     cursor: pointer;
 }*/
 
-.card{
+.botones{
+  display: inline-block;
+  width: 400px;
+  height: 180px;
   border: 0px solid #ccc;
   border-radius: 8px;
   padding: 5px;

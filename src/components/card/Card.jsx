@@ -13,7 +13,7 @@ function Card({palabra}) {
 
     return (
         <div className="card">
-            <button onClick={() => {cambiarIdioma()}}>
+            <button className="botones" onClick={() => {cambiarIdioma()}}>
                 <strong>{palabra[show]}</strong>
                 <p>{palabra["des_" + show]}</p>
             </button>
