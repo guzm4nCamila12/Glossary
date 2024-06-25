@@ -1,0 +1,7 @@
+.contenedor > div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 15px;
+    background-image: url(/src/imagenes/fondo3.avif);
+}

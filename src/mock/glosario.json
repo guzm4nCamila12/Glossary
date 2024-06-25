@@ -1,0 +1,1270 @@
+{
+  "palabras": [
+    {
+      "espaniol": "Variable",
+      "ingles": "Variable",
+      "des_espaniol": "Un símbolo que representa un valor almacenado en la memoria.",
+      "des_ingles": "A symbol that represents a value stored in memory."
+    },
+    {
+      "espaniol": "Función",
+      "ingles": "Function",
+      "des_espaniol": "Un bloque de código que realiza una tarea específica.",
+      "des_ingles": "A block of code that performs a specific task."
+    },
+    {
+      "espaniol": "Array",
+      "ingles": "Array",
+      "des_espaniol": "Una estructura de datos que puede contener múltiples elementos del mismo tipo.",
+      "des_ingles": "A data structure that can hold multiple elements of the same type."
+    },
+    {
+      "espaniol": "Objeto",
+      "ingles": "Object",
+      "des_espaniol": "Una entidad que tiene propiedades y métodos.",
+      "des_ingles": "An entity that has properties and methods."
+    },
+    {
+      "espaniol": "Cadena",
+      "ingles": "String",
+      "des_espaniol": "Una secuencia de caracteres.",
+      "des_ingles": "A sequence of characters."
+    },
+    {
+      "espaniol": "Número",
+      "ingles": "Number",
+      "des_espaniol": "Un valor numérico.",
+      "des_ingles": "A numerical value."
+    },
+    {
+      "espaniol": "Booleano",
+      "ingles": "Boolean",
+      "des_espaniol": "Un tipo de datos que puede tener solo dos valores: verdadero o falso.",
+      "des_ingles": "A data type that can have only two values: true or false."
+    },
+    {
+      "espaniol": "Condición",
+      "ingles": "Condition",
+      "des_espaniol": "Una expresión que se evalúa como verdadera o falsa.",
+      "des_ingles": "An expression that evaluates to true or false."
+    },
+    {
+      "espaniol": "Bucle",
+      "ingles": "Loop",
+      "des_espaniol": "Una estructura de control que repite un bloque de código hasta que se cumple una condición.",
+      "des_ingles": "A control structure that repeats a block of code until a condition is met."
+    },
+    {
+      "espaniol": "Clase",
+      "ingles": "Class",
+      "des_espaniol": "Un prototipo para crear objetos que comparten un comportamiento común.",
+      "des_ingles": "A blueprint for creating objects that share common behavior."
+    },
+    {
+      "espaniol": "Método",
+      "ingles": "Method",
+      "des_espaniol": "Una función asociada a un objeto.",
+      "des_ingles": "A function associated with an object."
+    },
+    {
+      "espaniol": "Herencia",
+      "ingles": "Inheritance",
+      "des_espaniol": "El mecanismo por el cual una clase puede heredar propiedades y métodos de otra clase.",
+      "des_ingles": "The mechanism by which a class can inherit properties and methods from another class."
+    },
+    {
+      "espaniol": "Interfaz",
+      "ingles": "Interface",
+      "des_espaniol": "Una estructura que define los métodos que una clase debe implementar.",
+      "des_ingles": "A structure that defines the methods that a class must implement."
+    },
+    {
+      "espaniol": "Encapsulamiento",
+      "ingles": "Encapsulation",
+      "des_espaniol": "El ocultamiento de los detalles de implementación de un objeto.",
+      "des_ingles": "The hiding of an object's implementation details."
+    },
+    {
+      "espaniol": "Polimorfismo",
+      "ingles": "Polymorphism",
+      "des_espaniol": "La capacidad de un objeto para tomar muchas formas.",
+      "des_ingles": "The ability of an object to take on many forms."
+    },
+    {
+      "espaniol": "Excepción",
+      "ingles": "Exception",
+      "des_espaniol": "Un evento inesperado que interrumpe el flujo normal de ejecución de un programa.",
+      "des_ingles": "An unexpected event that disrupts the normal flow of a program's execution."
+    },
+    {
+      "espaniol": "Debugging",
+      "ingles": "Debugging",
+      "des_espaniol": "El proceso de identificar y corregir errores en un programa.",
+      "des_ingles": "The process of identifying and fixing errors in a program."
+    },
+    {
+      "espaniol": "Compilación",
+      "ingles": "Compilation",
+      "des_espaniol": "El proceso de traducir código fuente a código máquina.",
+      "des_ingles": "The process of translating source code into machine code."
+    },
+    {
+      "espaniol": "Depuración",
+      "ingles": "Debugging",
+      "des_espaniol": "El proceso de identificar y corregir errores en un programa.",
+      "des_ingles": "The process of identifying and fixing errors in a program."
+    },
+    {
+      "espaniol": "Algoritmo",
+      "ingles": "Algorithm",
+      "des_espaniol": "Un conjunto ordenado de instrucciones para realizar una tarea específica.",
+      "des_ingles": "An ordered set of instructions for performing a specific task."
+    },
+    {
+      "espaniol": "Codigo",
+      "ingles": "Code",
+      "des_espaniol": "Un código de programación es una serie de instrucciones que le indican a una computadora qué operaciones realizar.",
+      "des_ingles": "A programming code is a series of instructions that tell a computer what operations to perform."
+    },
+    {
+      "espaniol": "Programa",
+      "ingles": "Program",
+      "des_espaniol": "un conjunto de código escrito que al ejecutarse se encarga de decirle a la computadora las tareas que debe llevar a cabo.",
+      "des_ingles": "a set of written code that, when executed, is responsible for telling the computer what tasks to carry out."
+    },
+    {
+      "espaniol": "Sintaxis",
+      "ingles": "Syntax",
+      "des_espaniol": "Se refiere a las reglas y estructuras que se utilizan para escribir el codigo.",
+      "des_ingles": "Refers to the rules and structures used to write the code."
+    },
+    {
+      "espaniol": "Libreria",
+      "ingles": "Library",
+      "des_espaniol": "Son herramientas para hacer que el desarrollo de software sea mas eficiente.",
+      "des_ingles": "They are tools to make software development more efficient."
+    },
+    {
+      "espaniol": "Estructura",
+      "ingles": "Framework",
+      "des_espaniol": "Es la forma en la que el codigo esta organizado y estructurado.",
+      "des_ingles": "It is the way in which the code is organized and structured."
+    },
+    {
+      "espaniol": "Base de datos",
+      "ingles": "Database",
+      "des_espaniol": "Es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. Una base de datos es un sistema de archivos electrónico.",
+      "des_ingles": "is a collection of information organized in such a way that a computer program can quickly select the pieces of data it needs. A database is an electronic file system."
+    },
+    {
+      "espaniol": "Declaracion",
+      "ingles": "Statement",
+      "des_espaniol": "es un componente esencial que permite al programa realizar acciones específicas. A través de las declaraciones, se establecen reglas, asignan valores y se ejecutan operaciones fundamentales para el correcto funcionamiento del código.",
+      "des_ingles": "is an essential component that allows the program to perform specific actions. Through declarations, rules are established, values are assigned and fundamental operations are executed for the correct functioning of the code."
+    },
+    {
+      "espaniol": "Puntero",
+      "ingles": "Pointer",
+      "des_espaniol": "Un puntero es una variable que almacena la dirección de memoria de otro valor ubicado en la memoria de la computadora.",
+      "des_ingles": "a pointer is a variable that stores the memory address of another value located in the computer's memory."
+    },
+    {
+      "espaniol": "Modulo",
+      "ingles": "Module",
+      "des_espaniol": "Es una técnica utilizada para el desarrollo de software, donde se divide el programa en muchos componentes o bloques pequeños autónomos llamados módulos, que son manejables, lógicos y funcionales.",
+      "des_ingles": "is a technique used for software development, where the program is divided into many small autonomous components or blocks called modules, which are manageable, logical and functional."
+    },
+    {
+      "espaniol": "Codigo de base",
+      "ingles": "Codebase",
+      "des_espaniol": "Es el conjunto completo de archivos fuente y recursos utilizados para construir un software o aplicación.",
+      "des_ingles": "is the complete set of source files and resources used to build a software or application."
+    },
+    {
+      "espaniol": "Guion",
+      "ingles": "Script",
+      "des_espaniol": "Es un conjunto de instrucciones escritas en un lenguaje de scripting que automatizan tareas en un entorno informático. Los guiones se utilizan para realizar operaciones repetitivas, manipular archivos, administrar sistemas y ejecutar aplicaciones.",
+      "des_ingles": "is a set of instructions written in a scripting language that automate tasks in a computer environment. Scripts are used to perform repetitive operations, manipulate files, administer systems and run applications."
+    },
+    {
+      "espaniol": "Control de versiones",
+      "ingles": "Version control",
+      "des_espaniol": "Es un sistema que permite gestionar y registrar los cambios realizados en el código fuente de un proyecto a lo largo del tiempo.",
+      "des_ingles": "is a system for managing and recording changes made to the source code of a project over time."
+    },
+    {
+      "espaniol": "Integracion",
+      "ingles": "Integration",
+      "des_espaniol": "La integración en programación se refiere al proceso de combinar diferentes sistemas, módulos, o componentes de software para que funcionen juntos como una unidad cohesiva.",
+      "des_ingles": "Integration in programming refers to the process of combining different systems, modules, or software components to work together as a cohesive unit."
+    },
+    {
+      "espaniol": "Despliegue",
+      "ingles": "Deployment",
+      "des_espaniol": "Es el proceso mediante el cual una aplicación o software se transfiere desde un entorno de desarrollo a un entorno de producción, donde estará disponible para los usuarios finales.",
+      "des_ingles": "is the process by which an application or software is transferred from a development environment to a production environment, where it will be available to end users."
+    },
+    {
+      "espaniol": "Pruebas",
+      "ingles": "Testing",
+      "des_espaniol": "Las pruebas en programación son un conjunto de técnicas y métodos utilizados para verificar que el software funcione según lo esperado.",
+      "des_ingles": "Testing in programming is a set of techniques and methods used to verify that the software works as expected."
+    },
+    {
+      "espaniol": "Automatizacion",
+      "ingles": "Automation",
+      "des_espaniol": "Se refiere al uso de software y scripts para realizar tareas repetitivas y manuales de manera eficiente y precisa. Esto incluye la automatización de procesos como la compilación de código, pruebas, despliegue de aplicaciones y gestión de infraestructuras.",
+      "des_ingles": "Refers to the use of software and scripts to perform repetitive and manual tasks efficiently and accurately. This includes automating processes such as code compilation, testing, application deployment and infrastructure management."
+    },
+    {
+      "espaniol": "Repositorio",
+      "ingles": "Repository",
+      "des_espaniol": "Es un espacio centralizado donde se almacena, organiza y gestiona el código fuente de un proyecto. Utiliza sistemas de control de versiones, como Git, para rastrear los cambios, colaborar con otros desarrolladores y mantener un historial de revisiones.",
+      "des_ingles": "is a centralized space where a project's source code is stored, organized and managed. It uses version control systems, such as Git, to track changes, collaborate with other developers and maintain a revision history."
+    },
+    {
+      "espaniol": "API (interfaz de programación de aplicaciones).",
+      "ingles": "API (Application Programming Interface).",
+      "des_espaniol": "es un conjunto de reglas y protocolos que permite que diferentes aplicaciones de software se comuniquen entre sí.",
+      "des_ingles": "is a set of rules and protocols that allows different software applications to communicate with each other."
+    },
+    {
+      "espaniol": "Plataforma",
+      "ingles": "Platform",
+      "des_espaniol": "se refiere a un entorno que soporta la ejecución de programas. Puede incluir hardware, un sistema operativo, un entorno de ejecución y un conjunto de herramientas de desarrollo.",
+      "des_ingles": "refers to an environment that supports the execution of programs. It may include hardware, an operating system, an execution environment and a set of development tools."
+    },
+    {
+      "espaniol": "Escalabilidad",
+      "ingles": "Scalability",
+      "des_espaniol": "Se refiere a la capacidad de un sistema para manejar un crecimiento creciente de carga o tamaño sin comprometer su rendimiento o funcionalidad.",
+      "des_ingles": "Refers to the ability of a system to handle increasing load or size growth without compromising performance or functionality."
+    },
+    {
+      "espaniol": "Seguridad",
+      "ingles": "Security",
+      "des_espaniol": "se refiere a implementar medidas para proteger sistemas y datos contra accesos no autorizados, ataques maliciosos y vulnerabilidades.",
+      "des_ingles": "refers to implementing measures to protect systems and data against unauthorized access, malicious attacks and vulnerabilities."
+    },
+    {
+      "espaniol": "Rendimiento",
+      "ingles": "Performance",
+      "des_espaniol": "se refiere a la eficiencia con la que un programa realiza sus tareas",
+      "des_ingles": "refers to the efficiency with which a program performs its tasks."
+    },
+    {
+      "espaniol": "Patron de diseño",
+      "ingles": "Design Pattern",
+      "des_espaniol": "es una solución general y reutilizable para un problema común en el diseño de software.",
+      "des_ingles": "is a general and reusable solution to a common problem in software design."
+    },
+    {
+      "espaniol": "Refactorizacion",
+      "ingles": "Refactoring",
+      "des_espaniol": "Se refiere al proceso de reestructurar y mejorar el código existente sin cambiar su comportamiento externo.",
+      "des_ingles": "Refers to the process of restructuring and improving existing code without changing its external behavior."
+    },
+    {
+      "espaniol": "Binario",
+      "ingles": "Binary",
+      "des_espaniol": "se refiere al sistema numérico que utiliza únicamente dos dígitos: 0 y 1.",
+      "des_ingles": "refers to the numeric system that uses only two digits: 0 and 1."
+    },
+    {
+      "espaniol": "Codigo intermedio",
+      "ingles": "Bytecode",
+      "des_espaniol": "se refiere a una representación abstracta de un programa que se encuentra entre el código fuente original y el código máquina ejecutable.",
+      "des_ingles": "refers to an abstract representation of a program that lies between the original source code and the executable machine code."
+    },
+    {
+      "espaniol": "Encriptacion",
+      "ingles": "Encryption",
+      "des_espaniol": "es el proceso de transformar datos legibles (texto claro) en un formato codificado (texto cifrado) que solo puede ser leído por alguien que posea una clave de desencriptación adecuada.",
+      "des_ingles": "is the process of transforming readable data (clear text) into an encoded format (cipher text) that can only be read by someone in possession of a suitable decryption key."
+    },
+    {
+      "espaniol": "Desencriptacion",
+      "ingles": "Decryption",
+      "des_espaniol": "es el proceso de convertir datos cifrados (ininteligibles) de vuelta a su forma original, utilizando una clave de desencriptación.",
+      "des_ingles": "is the process of converting encrypted (unintelligible) data back to its original form, using a decryption key."
+    },
+    {
+      "espaniol": "Abstraccion",
+      "ingles": "Abstraction",
+      "des_espaniol": "es un concepto que permite simplificar sistemas complejos al enfocarse solo en los aspectos esenciales, ocultando los detalles de implementación.",
+      "des_ingles": "is a concept that allows simplifying complex systems by focusing only on the essential aspects, hiding the implementation details."
+    },
+    {
+      "espaniol": "Lenguaje",
+      "ingles": "Languaje",
+      "des_espaniol": "es un conjunto de instrucciones y reglas que permiten a los desarrolladores comunicarse con las computadoras para crear software y aplicaciones.",
+      "des_ingles": "is a set of instructions and rules that allow developers to communicate with computers to create software and applications."
+    },
+    {
+      "espaniol":"Lenguaje de Programación",
+      "ingles":"Programming Language",
+      "des_espaniol":"Para que una computadora ejecute una instrucción necesitas decirle dicha instrucción en un lenguaje que entienda. A estos lenguajes que la computadora es capaz de entender, se le llaman lenguajes de programación.",
+      "des_ingles":"In order for a computer to execute an instruction you need to tell it that instruction in a language it understands. These languages ​​that the computer is capable of understanding are called programming languages."
+    },
+    {
+      "espaniol":"Código",
+      "ingles":"Code",
+      "des_espaniol":"Son las instrucciones que escribe un programador en un lenguaje de programación. El código es la etapa donde un programador puede leer y modificar un programa de computadora. ",
+      "des_ingles":"They are the instructions that a programmer writes in a programming language. Code is the stage where a programmer can read and modify a computer program."
+    },
+    {
+      "espaniol":"Bicho",
+      "ingles":"Bug",
+      "des_espaniol":"Un bug es un error en el código de un programa. Alguna vez haz hecho clic en el botón de una página y no pasa nada, o haz entrado a un sitio web y empieza a parpadear, o el programa simplemente se cierra sin causa aparente.",
+      "des_ingles":"A bug is an error in the code of a program. Have you ever clicked a button on a page and nothing happens, or you've entered a website and it starts flashing, or the program just closes for no apparent reason."
+    },
+    {
+      "espaniol":"Dominio",
+      "ingles":"Domain",
+      "des_espaniol":"Básicamente es el texto que ingresa una persona en un navegador para ingresar a un sitio web en específico.",
+      "des_ingles":"Basically it is the text that a person enters into a browser to enter a specific website."
+    },
+    {
+      "espaniol":"Alojamiento",
+      "ingles":"Hosting",
+      "des_espaniol":"Es el servicio que provee almacenamiento de información, imágenes, vídeo, o cualquier contenido accesible vía Web.",
+      "des_ingles":"It is the service that provides storage of information, images, video, or any content accessible via the Web."
+    },
+    {
+      "espaniol":"Software",
+      "ingles":"Software",
+      "des_espaniol":"En el mundo de la programación se le conoce como software a cualquier programa de computadora. Una aplicación móvil, un sistema operativo, una página web, un programa de escritorio, todo eso se le conoce como software.",
+      "des_ingles":"In the world of programming, any computer program is known as software. A mobile application, an operating system, a website, a desktop program, all of this is known as software."
+    },
+    {
+      "espaniol":"Desarrollo Agil de Software",
+      "ingles":"Agile software development",
+      "des_espaniol":"Hace referencia a las metodologías que promueven procesos disciplinarios en el desarrollo de software.",
+      "des_ingles":"It refers to methodologies that promote disciplinary processes in software development."
+    },
+    {
+      "espaniol":"Operaciones de Desarrollo",
+      "ingles":"Dev Ops",
+      "des_espaniol":"Promueve una colaboración fluida entre el equipo de desarrollo (programadores) y el equipo de operaciones(administradores de servidores, base de datos, testers, etc)para producir productos mejores y más confiables.",
+      "des_ingles":"Promotes fluid collaboration between the development team (programmers) and the operations team (server administrators, database administrators, testers, etc.) to produce better and more reliable products."
+    },
+    {
+      "espaniol":"Scrum",
+      "ingles":"Scrum",
+      "des_espaniol":"Scrum es una metodología de desarrollo ágil. Durante un sprint (o iteración), los miembros del equipo se auto-organizan para realizar las tareas que les corresponde.",
+      "des_ingles":"Scrum is an agile development methodology. During a sprint (or iteration), team members self-organize to perform their assigned tasks."
+    },
+    {
+      "espaniol":"Desarrollo Front-End",
+      "ingles":"Front-end development",
+      "des_espaniol":"El desarrollador Front-End hace todo lo que el usuario ve en la página. Le da el diseño a las páginas web a través de herramientas como HTML y CSS.",
+      "des_ingles":"The Front-End developer does everything that the user sees on the page. It gives the design to web pages through tools such as HTML and CSS."
+    },
+    {
+      "espaniol":"Desarrollo Back-End",
+      "ingles":"Back-End development",
+      "des_espaniol":"A diferencia del Front-End, el desarrollador Back-End crea todos los procesos de código de una página que el usuario no puede ver.",
+      "des_ingles":"Unlike the Front-End, the Back-End developer creates all the code processes of a page that the user cannot see."
+    },
+    {
+      "espaniol":"Desarrollador Full-Stack",
+      "ingles":"Full-Stack developer",
+      "des_espaniol":"Los desarrolladores Full-Stack son perfiles híbridos que conocen las herramientas que usa el programador Front-End y Back-End. Pueden hacer desde el diseño de una página web hasta manejar la base de datos y procesos de la página.",
+      "des_ingles":"Full-Stack developers are hybrid profiles that know the tools used by the Front-End and Back-End programmer. They can do everything from designing a web page to managing the database and page processes."
+    },
+    {
+      "espaniol":"Desarrollador Movil",
+      "ingles":"Mobile Developer",
+      "des_espaniol":"Los desarrolladores móviles crean apps para celulares o tablets para sistemas operativos como Android o iOS.",
+      "des_ingles":"Mobile developers create apps for cell phones or tablets for operating systems such as Android or iOS."
+    },
+    {
+      "espaniol":"Diseñador UI/UX",
+      "ingles":"UI/UX Designer",
+      "des_espaniol":"Un UI Diseñador diseña cómo se va a ver la página web o app en todos los dispositivos como computadora, celular y tablet. Por otro lado, el UX Diseñador se encarga de crear una buena experiencia para el usuario a través del diseño de la aplicación.",
+      "des_ingles":"A UI Designer designs how the web page or app will look on all devices such as computer, cell phone and tablet. On the other hand, the UX Designer is responsible for creating a good experience for the user through the design of the application."
+    },
+    {
+      "espaniol":"Ensayador",
+      "ingles":"Tester",
+      "des_espaniol":"El Tester o QA (Quality Assurance) planifica y lleva a cabo pruebas de software para comprobar si un programa de computadora funciona correctamente.",
+      "des_ingles":"The Tester or QA (Quality Assurance) plans and carries out software tests to check whether a computer program works correctly."
+    },
+    {
+      "espaniol":"Administrador de Sistemas",
+      "ingles":"Sysadmin",
+      "des_espaniol":"Son responsables del mantenimiento, la configuración y el funcionamiento confiable de los sistemas y servidores informáticos.",
+      "des_ingles":"They are responsible for the maintenance, configuration, and reliable operation of computer systems and servers."
+    },
+    {
+      "espaniol":"Ingeniero DevOps",
+      "ingles":"DevOps Engineer",
+      "des_espaniol":"Debido a la necesidad de las empresas de mejorar sus procesos de desarrollo de software y operaciones de TI, se creó una nueva posición que su labor sea asegurar la implementación de la metodología DevOps dentro de las empresas.",
+      "des_ingles":"Due to the need for companies to improve their software development and IT operations processes, a new position was created whose job is to ensure the implementation of the DevOps methodology within companies."
+    },
+    {
+      "espaniol":"Administrador de base de datos",
+      "ingles":"Database Administrator",
+      "des_espaniol":"El Administrador de Base de Datos es el encargado de crear una base de datos en la que las empresas puedan guardar toda la información que generan.",
+      "des_ingles":"The Database Administrator is in charge of creating a database in which companies can store all the information they generate."
+    },
+    {
+      "espaniol":"Ingeniero en Ciberseguridad",
+      "ingles":"Cybersecurity Engineer",
+      "des_espaniol":"Un Ingeniero en Ciberseguridad se encarga de la privacidad y protección de datos de las empresas y las organizaciones para hacer frente a los ciberataques.",
+      "des_ingles":"A Cybersecurity Engineer is in charge of the privacy and data protection of companies and organizations to face cyber attacks."
+    },
+    {
+      "espaniol":"Gerente de proyecto",
+      "ingles":"Project Maneger",
+      "des_espaniol":"Un Project Manager se dedica a una de las funciones más críticas de las organizaciones, ya que es el responsable de asegurar que los proyectos se realicen en tiempo y forma sin salirse del presupuesto asignado.",
+      "des_ingles":"A Project Manager is dedicated to one of the most critical functions of organizations, since they are responsible for ensuring that projects are carried out on time and within the assigned budget."
+    },
+    {
+      "espaniol":"Java",
+      "ingles":"Java",
+      "des_espaniol":"Lenguaje de programación compilado orientado a objetos, similar en sintaxis a C++. Está concebido para dejar a los desarrolladores de aplicaciones “Escribir una vez, ejecutar en todas partes” (write once, run anywhere) lo que significa que un código compilado de Java puede ser ejecutado en todas las plataformas que son compatibles Java sin la necesidad de recopilación.",
+      "des_ingles":"Object-oriented compiled programming language, similar in syntax to C++. It is designed to allow application developers to “write once, run anywhere,” meaning that compiled Java code can be run on all platforms that support Java without the need for collection."
+    },
+    {
+      "espaniol":"Lenguaje C",
+      "ingles":"C Language",
+      "des_espaniol":"Lenguaje de programación informático imperativo de uso general que soporta programación estructurada, alcance léxico variable y recursión, mientras que un sistema de tipo estático previene muchas operaciones accidentales.",
+      "des_ingles":"General-purpose imperative computer programming language that supports structured programming, variable lexical scope, and recursion, while a static type system prevents many accidental operations."
+    },
+    {
+      "espaniol":"C++",
+      "ingles":"C++",
+      "des_espaniol":"Lenguaje de programación de uso general. Tiene características de programación genéricas, orientadas al objeto e imperativas y proporciona a las instalaciones una manipulación de memoria de bajo nivel.",
+      "des_ingles":"General purpose programming language. It has generic, object-oriented, and imperative programming features and provides facilities with low-level memory manipulation."
+    },
+    {
+      "espaniol":"C#",
+      "ingles":"C#",
+      "des_espaniol":"Lenguaje de programación que está diseñado para crear una variedad de aplicaciones que corren en el Framework .NET. C# es simple, poderoso, seguro de escribir y orientado a objetos.",
+      "des_ingles":"Programming language that is designed to create a variety of applications that run on the .NET Framework. C# is simple, powerful, type-safe, and object-oriented."
+    },
+    {
+      "espaniol":"Python",
+      "ingles":"Python",
+      "des_espaniol":"Es un lenguaje especialmente utilizado en el ambiente de  ciencia de datos e inteligencia artificial.",
+      "des_ingles":"It is a language especially used in the data science and artificial intelligence environment."
+    },
+    {
+      "espaniol":"Visual Basic [.NET]",
+      "ingles":"Visual Basic [.NET]",
+      "des_espaniol":"Lenguaje de programación orientado a objetos multi-paradigma implementado sobre el Framework .NET.",
+      "des_ingles":"Multi-paradigm object-oriented programming language implemented on the .NET Framework."
+    },
+    {
+      "espaniol":"PHP",
+      "ingles":"PHP",
+      "des_espaniol":"Lenguaje de script ampliamente utilizado de código abierto de uso general que es especialmente adecuado para desarrollo web y puede ser embebido en HTML.",
+      "des_ingles":"Widely used open source general-purpose scripting language that is especially suitable for web development and can be embedded in HTML."
+    },
+    {
+      "espaniol":"JavaScript",
+      "ingles":"JavaScript",
+      "des_espaniol":"Es un lenguaje de programación multi-paradigma, soportando estilos de programación funcionales, imperativos y orientados al objeto.",
+      "des_ingles":"It is a multi-paradigm programming language, supporting functional, imperative and object-oriented programming styles."
+    },
+    {
+      "espaniol":"Perl",
+      "ingles":"Perl",
+      "des_espaniol":"Lenguaje de script de uso general para Unix para hacer más fácil el procesamiento de reportes.",
+      "des_ingles":"General-purpose scripting language for Unix to make report processing easier."
+    },
+    {
+      "espaniol":"Ruby",
+      "ingles":"Ruby",
+      "des_espaniol":"Lenguaje de programación dinámico, reflexivo, orientado a objetos de uso general.",
+      "des_ingles":"General-purpose, dynamic, reflective, object-oriented programming language."
+    },
+    {
+      "espaniol":"Swift",
+      "ingles":"Swift",
+      "des_espaniol":"Es un lenguaje de programación compilado, multi-paradigma y de uso general desarrollado por Apple Inc. para iOS, macOS, watchOS, tvOS, y Linux.",
+      "des_ingles":"It is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux."
+    },
+    {
+      "espaniol":"R",
+      "ingles":"R",
+      "des_espaniol":"Lenguaje de programación de código abierto y un ambiente de software para computación estadística y gráfica. Es ampliamente utilizado entre estadísticos y mineros de datos para desarrollar software estadístico y análisis de datos.",
+      "des_ingles":"Open source programming language and software environment for statistical and graphical computing. It is widely used among statisticians and data miners to develop statistical software and data analysis."
+    },
+    {
+      "espaniol":"Go",
+      "ingles":"Go",
+      "des_espaniol":"Lenguaje de programación gratuito y de código abierto creado por Google.",
+      "des_ingles":"Free and open source programming language created by Google."
+    },
+    {
+      "espaniol":"Objetivo-C",
+      "ingles":"Objetive-C",
+      "des_espaniol":"Lenguaje de programación orientado a objetos de uso general que añade la mensajería estilo Smalltalk al lenguaje de programación C.",
+      "des_ingles":"General-purpose object-oriented programming language that adds Smalltalk-style messaging to the C programming language."
+    },
+    {
+      "espaniol":"SQL",
+      "ingles":"SQL",
+      "des_espaniol":"Lenguaje de programación para manejo base de datos.",
+      "des_ingles":"Programming language for database management."
+    },
+    {
+      "espaniol":"Scala",
+      "ingles":"Scala",
+      "des_espaniol":"Lenguaje de programación de uso general que proporciona soporte general para programación funcional y un sistema de escritura estática fuerte.",
+      "des_ingles":"General-purpose programming language that provides general support for functional programming and a strong static typing system."
+    },
+    {
+      "espaniol":"Android",
+      "ingles":"Android",
+      "des_espaniol":"Sistema operativo más popular del mundo dedicado principalmente a dispositivos móviles.",
+      "des_ingles":"The world's most popular operating system dedicated mainly to mobile devices."
+    },
+    {
+      "espaniol":"Base de datos Relacional",
+      "ingles":"Relational database",
+      "des_espaniol":"Una base de datos relacional es un tipo de base de datos que almacena y proporciona acceso a datos relacionados entre sí. Las bases de datos relacionales se basan en el modelo relacional, una forma intuitiva y directa de representar datos en tablas.",
+      "des_ingles":"A relational database is a type of database that stores and provides access to related data. Relational databases are based on the relational model, an intuitive and direct way of representing data in tables."
+    },
+    {
+      "espaniol":"Base de datos NoSQL",
+      "ingles":"NoSQL database",
+      "des_espaniol":"Las bases de datos NoSQL están diseñadas específicamente para modelos de datos específicos y tienen esquemas flexibles para crear aplicaciones modernas.",
+      "des_ingles":"NoSQL databases are specifically designed for specific data models and have flexible schemas for building modern applications."
+    },
+    {
+      "espaniol":"Motor de base de datos",
+      "ingles":"Database engine",
+      "des_espaniol":"Las bases de datos no son como un excel que un usuario puede manejar de manera sencilla para modificarla.  Para acceder a la información de una base de datos y modificarlo como sea necesario se usan los motores de base de datos.",
+      "des_ingles":"Databases are not like Excel that a user can easily handle to modify it. Database engines are used to access information in a database and modify it as necessary."
+    },
+    {
+      "espaniol":"Diseño de respuesta",
+      "ingles":"Responsive Desing",
+      "des_espaniol":"Es la filosofía de diseño y desarrollo web que indica que una página o aplicación web se debe de adaptar al dispositivo que usa el usuario.",
+      "des_ingles":"It is the philosophy of web design and development that indicates that a page or web application must adapt to the device used by the user."
+    },
+    {
+      "espaniol":"Usiabilidad",
+      "ingles":"Usability",
+      "des_espaniol":"Básicamente es qué tan fácil es usar una aplicación.",
+      "des_ingles":"It's basically how easy an app is to use."
+    },
+    {
+      "espaniol":"HTML",
+      "ingles":"HTML",
+      "des_espaniol":"Es la herramienta que le ayuda a los desarrolladores web a dar estructura al texto de una página.",
+      "des_ingles":"It is the tool that helps web developers give structure to the text on a page."
+    },
+    {
+      "espaniol":"CSS",
+      "ingles":"CSS",
+      "des_espaniol":"CSS es una herramienta para darle estilo y diseño a una página web.",
+      "des_ingles":"CSS is a tool for giving style and design to a web page."
+    },
+    {
+      "espaniol":"Diseño de materiales",
+      "ingles":"Material Desing",
+      "des_espaniol":"Es la filosofía de diseño conceptual de Google que describe cómo es que las aplicaciones deben verse y trabajar.",
+      "des_ingles":"It is Google's conceptual design philosophy that describes how applications should look and work."
+    },
+    {
+      "espaniol":"Bootstrap",
+      "ingles":"Bootstrap",
+      "des_espaniol":"Es un framework web front-end de código abierto gratuito para diseñar sitios web y aplicaciones web.",
+      "des_ingles":"It is a free open source front-end web framework for designing websites and web applications."
+    },
+    {
+      "espaniol":"Galletas",
+      "ingles":"Cookies",
+      "des_espaniol":"Las cookies permiten a los sitios web trackear las acciones de sus usuarios. De esta manera los desarrolladores web pueden saber si un usuario ya visitó anteriormente un sitio.",
+      "des_ingles":"Cookies allow websites to track the actions of their users. This way web developers can know if a user has previously visited a site."
+    },
+    {
+      "espaniol":"Prueba Automatizada",
+      "ingles":"Automated Test",
+      "des_espaniol":"Las pruebas automatizadas son pruebas que se han automatizado a través de herramientas de software y que se pueden ejecutar sin intervención humana.",
+      "des_ingles":"Automated tests are tests that have been automated through software tools and can be run without human intervention."
+    },
+    {
+      "espaniol":"Pruebas de Regresión",
+      "ingles":"Regression tests",
+      "des_espaniol":"El objetivo de estas pruebas es encontrar errores que puedan haber sido introducidos accidentalmente en la compilación existente.",
+      "des_ingles":"The goal of these tests is to find bugs that may have been accidentally introduced into the existing build."
+    },
+    {
+      "espaniol":"Pruebas de Compatibilidad",
+      "ingles":"Compatibility tests",
+      "des_espaniol":"Sirven para verificar el funcionamiento de un sistemas en distintos entornos. Por ejemplo probar una aplicación web en distintos navegadores como Chrome o Microsoft Edge.",
+      "des_ingles":"They are used to verify the operation of systems in different environments. For example, test a web application in different browsers such as Chrome or Microsoft Edge."
+    },
+    {
+      "espaniol":"Git",
+      "ingles":"Git",
+      "des_espaniol":"Es un sistema de control de versiones distribuidas de código abierto gratuito para rastrear los cambios en archivos de computadora y coordinar el trabajo en esos archivos entre múltiples personas.",
+      "des_ingles":"It is a free open source distributed version control system for tracking changes to computer files and coordinating work on those files between multiple people."
+    },
+    {
+      "espaniol":"Subversion(SVN)",
+      "ingles":"Subversion",
+      "des_espaniol":"Sistema de control de versiones de código abierto popular. En contraste con Git, todos los desarrolladores utilizan un repositorio centralizado.",
+      "des_ingles":"Popular open source version control system. In contrast to Git, all developers use a centralized repository."
+    },
+    {
+      "espaniol":"Comprometerse",
+      "ingles":"Commit",
+      "des_espaniol":"En los sistemas de control de versiones, un commit es un cambio guardado hecho al código fuente.",
+      "des_ingles":"In version control systems, a commit is a saved change made to the source code."
+    },
+    {
+      "espaniol":"GitHub",
+      "ingles":"GitHub",
+      "des_espaniol":"Es un servicio de alojamiento popular de Git. Es usado principalmente para programar. Además de Git, proporciona varias características de colaboración tales como seguimiento de errores, solicitudes de funciones, gestión de tareas y wikis.",
+      "des_ingles":"It is a popular Git hosting service. It is mainly used for programming. In addition to Git, it provides several collaboration features such as bug tracking, feature requests, task management, and wikis."
+    },
+    {
+      "espaniol":"Bitbucket",
+      "ingles":"Bitbucket",
+      "des_espaniol":"Es un servicio de alojamiento de repositorios Git y Mercurial de propiedad de Atlassian. Como sus contrapartes, proporciona varias características de colaboración tales como seguimiento de problemas y wikis. Sitio web: Bitbucket.org.",
+      "des_ingles":"It is a Git and Mercurial repository hosting service owned by Atlassian. Like its counterparts, it provides several collaboration features such as issue tracking and wikis. Website: Bitbucket.org."
+    },
+    {
+      "espaniol":"Entorno de Desarrollo Integrado",
+      "ingles":"IDE",
+      "des_espaniol":"Es una aplicación de editor de código diseñada para ayudar a los programadores a escribir, ejecutar y depurar códigos. Ejemplos: Eclipse, IntelliJ IDEA, Visual Studio, PHP Storm, etc.",
+      "des_ingles":"Is a code editor application designed to help programmers write, run and debug code. Examples: Eclipse, IntelliJ IDEA, Visual Studio, PHP Storm, etc."
+    },
+    {
+      "espaniol":"Herramientas de Compilacion",
+      "ingles":"Build tools",
+      "des_espaniol":"Son utilizadas para convertir código de programación escrito por el desarrollador a código binario que es ejecutable por una computadora y correrlo.",
+      "des_ingles":"They are used to convert programming code written by the developer to binary code that is executable by a computer and run it."
+    },
+    {
+      "espaniol":"Integracion Continua",
+      "ingles":"Continuous integration",
+      "des_espaniol":"La integración continua es una práctica de desarrollo de software mediante la cual los desarrolladores combinan los cambios en el código en un repositorio central de forma periódica, tras lo cual se ejecutan versiones y pruebas automáticas.",
+      "des_ingles":"Continuous integration is a software development practice in which developers merge code changes into a central repository periodically, followed by automated releases and tests."
+    },
+    {
+      "espaniol":"Descansar",
+      "ingles":"Rest",
+      "des_espaniol":"Es una técnica de arquitectura de software usada para construir APIs que permitan comunicar a nuestro servidor con sus clientes usando el protocolo HTTP mediante URIs lo suficientemente inteligentes para poder satisfacer la necesidad del cliente.",
+      "des_ingles":"It is a software architecture technique used to build APIs that allow our server to communicate with its clients using the HTTP protocol through URIs that are intelligent enough to satisfy the client's need."
+    },
+    {
+      "espaniol":"Protocolo de Acceso de Objeto Simple",
+      "ingles":"SOAP",
+      "des_espaniol":"Es una manera de intercambiar información estructurada entre computadoras.",
+      "des_ingles":"It is a way of exchanging structured information between computers."
+    },
+    {
+      "espaniol":"Monolito",
+      "ingles":"Monolith",
+      "des_espaniol":"Es un estilo de arquitectura basado en funcionamiento sobre una sola capa de aplicación que tiende a atar juntas a todas las funcionalidades necesarias para la arquitectura.",
+      "des_ingles":"It is an architectural style based on functioning on a single application layer that tends to tie together all the functionalities necessary for the architecture."
+    },
+    {
+      "espaniol":"Servidor",
+      "ingles":"Server",
+      "des_espaniol":"Un servidor es una computadora que almacena información para que otras computadoras puedan solicitar acceso a dicha información.",
+      "des_ingles":"A server is a computer that stores information so that other computers can request access to that information"
+    },
+    {
+      "espaniol":"SasS",
+      "ingles":"SasS",
+      "des_espaniol":"Es un modelo de entrega y licencias de software sobre una base de suscripción y es alojado centralmente. SaaS es la forma más familiar de servicio en la nube para los consumidores.",
+      "des_ingles":"It is a software licensing and delivery model on a subscription basis and is centrally hosted. SaaS is the most familiar form of cloud service to consumers."
+    },
+    {
+      "espaniol":"Paas",
+      "ingles":"Paas",
+      "des_espaniol":"PaaS funciona a un nivel menor que SaaS, proporcionado típicamente una plataforma sobre la cual el software puede ser desarrollado y desplegado.",
+      "des_ingles":"PaaS works at a lower level than SaaS, typically providing a platform on which software can be developed and deployed."
+    },
+    {
+      "espaniol":"Iaas",
+      "ingles":"Iaas",
+      "des_espaniol":"Es el modelo de servicio en la nube más básico que ofrece infraestructura informática.",
+      "des_ingles":"It is the most basic cloud service model that offers computing infrastructure"
+    },
+    {
+      "espaniol":"ERP",
+      "ingles":"Enterprise Resource Planning",
+      "des_espaniol":"Se refiere al tipo de software que usan las organizaciones para administrar las actividades empresariales diarias, como la contabilidad, el abastecimiento, la administración de proyectos, el cumplimiento y la gestión de riesgos y las operaciones de la cadena de suministro.",
+      "des_ingles":"It refers to the type of software that organizations use to manage daily business activities, such as accounting, sourcing, project management, compliance and risk management, and supply chain operations."
+    },
+    {
+      "espaniol":"Contenedores",
+      "ingles":"Containers",
+      "des_espaniol":"Los contenedores de software son ambientes de ejecución livianos que proveen a las aplicaciones con los archivos, variables y librerías que necesitan para operar.",
+      "des_ingles":"Software containers are lightweight execution environments that provide applications with the files, variables, and libraries they need to operate."
+    },
+    {
+      "espaniol":"Sistema Operativo",
+      "ingles":"OS",
+      "des_espaniol":"Es el software del sistema que maneja el hardware informático y los recursos de software. Es el sistema que nos permite acceder y utilizar los programas de una computadora.",
+      "des_ingles":"It is the system software that manages computer hardware and software resources. It is the system that allows us to access and use computer programs."
+    },
+    {
+      "espaniol":"Caparazon",
+      "ingles":"Shell",
+      "des_espaniol":"Interfaz que permite al usuario interactuar con una computadora. Proporciona una interfaz de usuario para acceder a los servicios del sistema operativo.",
+      "des_ingles":"Interface that allows the user to interact with a computer. Provides a user interface to access operating system services."
+    },
+    {
+      "espaniol":"Log",
+      "ingles":"Log",
+      "des_espaniol":"Es un registro de lo que ha pasado. Típicamente ayuda a diagnosticar problemas u obtener ciertos entendimientos sobre qué es lo que pasa en el ciclo de vida de una aplicación.",
+      "des_ingles":"It is a record of what has happened. It typically helps diagnose problems or gain insights into what is happening in the lifecycle of an application."
+    },
+    {
+      "espaniol":"Consola",
+      "ingles":"Console",
+      "des_espaniol":"Ventana, normalmente negra, donde se puede trabajar desde la línea de comandos.",
+      "des_ingles":"Window, usually black, where you can work from the command line."
+    },
+    {
+      "espaniol": "Desarrollo",
+      "ingles": "Development",
+      "des_espaniol": "El desarrollo en programación es el proceso de diseñar, escribir, probar y mantener el código fuente de programas informáticos",
+      "des_ingles": "Development programming is the process of designing, writing, testing and maintaining the source code of computer programs."
+    },
+    {
+      "espaniol": "Consulta",
+      "ingles": "Query",
+      "des_espaniol": "se refiere a una solicitud de datos a una base de datos. Esta solicitud se realiza mediante un lenguaje de consulta, como SQL, y permite recuperar, insertar, actualizar o eliminar información en la base de datos.",
+      "des_ingles": "refers to a request for data to a database. This request is made using a query language, such as SQL, and allows you to retrieve, insert, update, or delete information in the database."
+    },
+    {
+      "espaniol": "Error",
+      "ingles": "Bug",
+      "des_espaniol": "Un error en programación es un fallo o malfuncionamiento en el código de un software que impide su correcto funcionamiento.",
+      "des_ingles": "A programming error is a failure or malfunction in the code of a software that prevents it from working properly."
+    },
+    {
+      "espaniol": "Condicional",
+      "ingles": "Conditional",
+      "des_espaniol": "es una estructura de control que permite ejecutar diferentes bloques de código según si una condición es verdadera o falsa.",
+      "des_ingles": "It is a control structure that allows different blocks of code to be executed depending on whether a condition is true or false."
+    },
+    {
+      "espaniol": "Parametro",
+      "ingles": "Parameter",
+      "des_espaniol": "es una variable local en una función o método que se utiliza para recibir valores que se le pasan al llamar a la función.",
+      "des_ingles": "is a local variable in a function or method that is used to receive values that are passed to it when the function is called."
+    },
+    {
+      "espaniol": "Argumento",
+      "ingles": "Argument",
+      "des_espaniol": "se refiere a la información que se pasa a una función cuando es llamada. Estos argumentos son los datos necesarios para que la función realice su tarea específica.",
+      "des_ingles": "refers to the information that is passed to a function when it is called. These arguments are the data required for the function to perform its specific task."
+    },
+    {
+      "espaniol": "Iteracion",
+      "ingles": "Iteration",
+      "des_espaniol": "se refiere al proceso de repetir una secuencia de instrucciones o acciones un número específico de veces o hasta que se cumpla una condición determinada.",
+      "des_ingles": "refers to the process of repeating a sequence of instructions or actions a specific number of times or until a certain condition is met."
+    },
+    {
+      "espaniol": "Concatenacion",
+      "ingles": "Concatenation",
+      "des_espaniol": "La concatenación en programación se refiere a la operación de unir dos o más cadenas de texto en una sola cadena más larga.",
+      "des_ingles": "Concatenation in programming refers to the operation of joining two or more strings of text into a single, longer string."
+    },
+    {
+      "espaniol": "Estructura de datos",
+      "ingles": "Data structure",
+      "des_espaniol": "se refiere a la organización y gestión de datos de manera que puedan ser almacenados, manipulados y utilizados de manera eficiente.",
+      "des_ingles": "It refers to the organization and management of data so that it can be stored, manipulated, and used efficiently."
+    },
+    {
+      "espaniol": "Tipo de dato",
+      "ingles": "Data type",
+      "des_espaniol": " se refiere a la clasificación o categoría que se asigna a un valor que determina qué tipo de operaciones se pueden realizar con él y cómo se almacena en la memoria.",
+      "des_ingles": " It refers to the classification or category that is assigned to a value that determines what kind of operations can be performed on it and how it is stored in memory."
+    },
+    {
+      "espaniol": "Logica",
+      "ingles": "Logic",
+      "des_espaniol": "La lógica en programación se refiere al proceso de pensar de manera estructurada y precisa para resolver problemas mediante instrucciones lógicas y razonamiento.",
+      "des_ingles": "Logic in programming refers to the process of thinking in a structured and precise way to solve problems through logical instructions and reasoning."
+    },
+    {
+      "espaniol": "Modularidad",
+      "ingles": "Modularity",
+      "des_espaniol": "se refiere a la práctica de dividir un programa en módulos independientes y autónomos, cada uno con una funcionalidad específica y claramente definida.",
+      "des_ingles": "It refers to the practice of dividing a program into independent, self-contained modules, each with a specific and clearly defined functionality."
+    },
+    {
+      "espaniol": "Protocolo",
+      "ingles": "Protocol",
+      "des_espaniol": "un protocolo se refiere a un conjunto de reglas y convenciones que especifican cómo se comunican dos o más entidades",
+      "des_ingles": "A protocol refers to a set of rules and conventions that specify how two or more entities communicate"
+    },
+    {
+      "espaniol": "Validacion",
+      "ingles": "Validation",
+      "des_espaniol": "se refiere al proceso de asegurar que los datos ingresados o manipulados en un programa cumplan con ciertos criterios definidos antes de ser utilizados",
+      "des_ingles": "refers to the process of ensuring that data entered or manipulated into a program meets certain defined criteria before being used"
+    },
+    {
+      "espaniol": "Sobrecarga",
+      "ingles": "Overloading",
+      "des_espaniol": "se refiere a la capacidad de definir múltiples funciones o métodos con el mismo nombre en una misma clase, pero con diferentes listas de parámetros.",
+      "des_ingles": "It refers to the ability to define multiple functions or methods with the same name in the same class, but with different lists of parameters."
+    },
+    {
+      "espaniol": "Anulacion",
+      "ingles": "Overriding",
+      "des_espaniol": "se refiere al proceso mediante el cual una clase hija proporciona una implementación específica de un método que ya está definido en una clase padre.",
+      "des_ingles": "refers to the process by which a child class provides a specific implementation of a method that is already defined in a parent class."
+    },
+    {
+      "espaniol": "Estatico",
+      "ingles": "Static",
+      "des_espaniol": "Se refiere a una propiedad o método de una clase que pertenece a la clase en sí misma en lugar de a instancias individuales de esa clase.",
+      "des_ingles": " refers to a property or method of a class that belongs to the class itself rather than to individual instances of that class."
+    },
+    {
+      "espaniol": "Asincronico",
+      "ingles": "Asynchronous",
+      "des_espaniol": "se refiere a la ejecución de operaciones sin bloquear el flujo principal del programa. Esto significa que una tarea puede iniciarse y el programa puede continuar ejecutando otras tareas mientras espera que la primera tarea termine.",
+      "des_ingles": "refers to the execution of trades without blocking the main flow of the program. This means that a task can be started and the program can continue to run other tasks while waiting for the first task to finish."
+    },
+    {
+      "espaniol": "Concurrencia",
+      "ingles": "Concurrency",
+      "des_espaniol": "es la capacidad de un sistema para manejar múltiples tareas al mismo tiempo, facilitando la ejecución de varios procesos o hilos de manera simultánea.",
+      "des_ingles": "It is the ability of a system to handle multiple tasks at the same time, facilitating the execution of several processes or threads simultaneously."
+    },
+    {
+      "espaniol": "Paquete",
+      "ingles": "Package",
+      "des_espaniol": "es una colección organizada de módulos o clases que agrupan funcionalidades relacionadas.",
+      "des_ingles": "It is an organized collection of modules or classes that group related functionalities."
+    },
+    {
+      "espaniol": "Autorizacion",
+      "ingles": "Authorization",
+      "des_espaniol": "es el proceso de verificar si un usuario tiene los permisos necesarios para realizar una acción específica en un sistema o acceder a ciertos recursos",
+      "des_ingles": "It is the process of verifying whether a user has the necessary permissions to perform a specific action on a system or access certain resources"
+    },
+    {
+      "espaniol": "Punto final",
+      "ingles": "Endpoint",
+      "des_espaniol": "se refiere a una URL específica en una API donde se pueden realizar operaciones específicas, como obtener, enviar, actualizar o eliminar datos.",
+      "des_ingles": "refers to a specific URL in an API where specific operations can be performed, such as getting, sending, updating, or deleting data."
+    },
+    {
+      "espaniol": "Agil",
+      "ingles": "Agile",
+      "des_espaniol": "es una metodología de desarrollo de software que enfatiza la flexibilidad, la colaboración y la entrega rápida de productos funcionales",
+      "des_ingles": "is a software development methodology that emphasizes flexibility, collaboration, and rapid delivery of functional products"
+    },
+    {
+      "espaniol": "Interbloqueo",
+      "ingles": "Deadlock",
+      "des_espaniol": "es una situación en la programación concurrente donde dos o más procesos o hilos se quedan esperando indefinidamente por recursos que están siendo ocupados por ellos mismos",
+      "des_ingles": "It is a situation in concurrent programming where two or more processes or threads are left waiting indefinitely for resources that are being occupied by themselves"
+    },
+    {
+      "espaniol": "Comentario",
+      "ingles": "Comment",
+      "des_espaniol": "es una anotación dentro del código fuente que no es ejecutada por el compilador o intérprete.",
+      "des_ingles": "It is an annotation within the source code that is not executed by the compiler or interpreter."
+    },
+    {
+      "espaniol": "Nucleo",
+      "ingles": "Kernel",
+      "des_espaniol": "es la parte central del sistema operativo que gestiona las operaciones básicas del hardware y del sistema, incluyendo la gestión de memoria, el manejo de procesos, la gestión de archivos y la comunicación entre dispositivos.",
+      "des_ingles": "It is the central part of the operating system that manages basic hardware and system operations, including memory management, process handling, file management, and communication between devices."
+    },
+    {
+      "espaniol": "Plantilla",
+      "ingles": "Template",
+      "des_espaniol": "es un mecanismo que permite definir clases o funciones genéricas, las cuales pueden ser personalizadas con tipos de datos específicos o argumentos concretos al ser utilizadas.",
+      "des_ingles": "It is a mechanism that allows you to define generic classes or functions, which can be customized with specific data types or specific arguments when used."
+    },
+    {
+      "espaniol": "Virtualizacion",
+      "ingles": "Virtualization",
+      "des_espaniol": "se refiere al proceso de crear una versión virtual o simulada de algo, como un sistema operativo, hardware, red o almacenamiento.",
+      "des_ingles": "It refers to the process of creating a virtual or simulated version of something, such as an operating system, hardware, network, or storage."
+    },
+    {
+      "espaniol": "Cierre", 
+      "ingles": "Closure",
+      "des_espaniol": "es una función que captura variables del ámbito circundante en el momento de su creación",
+      "des_ingles": "is a function that captures variables from the surrounding environment at the time of its creation"
+    },
+    {
+      "espaniol": "Funcion anonima",
+      "ingles": "Lambda",
+      "des_espaniol": "es una función que no está asociada a un nombre específico y puede ser creada y utilizada en el momento en que se necesita",
+      "des_ingles": "is a function that is not associated with a specific name and can be created and used at the time it is needed"
+    },
+    {
+      "espaniol": "Interfaz de usuario",
+      "ingles": "User interface",
+      "des_espaniol": "es la capa visual y funcional mediante la cual los usuarios interactúan con un software.",
+      "des_ingles": "It is the visual and functional layer through which users interact with software."
+    },
+    {
+      "espaniol": "Orientado a eventos",
+      "ingles": "Event-driven",
+      "des_espaniol": "se refiere a un estilo de desarrollo donde el flujo de ejecución del programa está determinado por eventos que ocurren en el sistema o aplicación.",
+      "des_ingles": "It refers to a development style where the flow of program execution is determined by events that occur in the system or application."
+    },
+    {
+      "espaniol": "Fabrica",
+      "ingles": "Factory",
+      "des_espaniol": "se refiere a un patrón de diseño que permite crear objetos sin especificar su clase exacta. Utiliza métodos de fabricación para instanciar objetos según la interfaz común definida por una clase base o una interfaz.",
+      "des_ingles": "refers to a design pattern that allows objects to be created without specifying their exact class. It uses fabrication methods to instantiate objects based on the common interface defined by a base class or interface."
+    },
+    {
+      "espaniol": "Enrutamiento",
+      "ingles": "Routing",
+      "des_espaniol": "se refiere al proceso de dirigir las solicitudes de los usuarios a funciones, métodos o controladores específicos según la URL solicitada.",
+      "des_ingles": "refers to the process of directing user requests to specific functions, methods, or handlers based on the requested URL."
+    },
+    {
+      "espaniol": "Espacio de nombre",
+      "ingles": "Namespace",
+      "des_espaniol": "en programación es un contenedor que organiza elementos, como clases, funciones y variables, bajo un nombre único.",
+      "des_ingles": "In programming, it is a container that organizes elements, such as classes, functions, and variables, under a unique name."
+    },
+    {
+      "espaniol": "Complemento",
+      "ingles": "Plugin",
+      "des_espaniol": "Un complemento se refiere a un módulo o extensión que se añade a un programa principal para agregar funcionalidades específicas",
+      "des_ingles": "An add-on refers to a module or extension that is added to a core program to add specific functionality"
+    },
+    {
+      "espaniol": "Limitacion de velocidad",
+      "ingles": "Rate limiting",
+      "des_espaniol": "Se refiere al proceso de controlar y gestionar la velocidad o la frecuencia a la que ocurren ciertas operaciones o procesos dentro de un programa o sistema",
+      "des_ingles": "Refers to the process of controlling and managing the speed or frequency at which certain operations or processes occur within a program or system"
+    },
+    {
+      "espaniol": "Indice de base de datos",
+      "ingles": "Database index",
+      "des_espaniol": "es una estructura optimizada que mejora la velocidad de recuperación de datos al actuar como un mapa rápido hacia los registros almacenados.",
+      "des_ingles": "It is an optimized structure that improves the speed of data retrieval by acting as a quick map to the stored records."
+    },
+    {
+      "espaniol": "Lenguaje de script",
+      "ingles": "Scripting languaje",
+      "des_espaniol": "es un tipo de lenguaje de programación diseñado para la automatización de tareas, generalmente interpretado en lugar de compilado",
+      "des_ingles": "is a type of programming language designed for task automation, usually interpreted rather than compiled"
+    },
+    {
+      "espaniol": "Revision de codigo",
+      "ingles": "Code review",
+      "des_espaniol": "es un proceso sistemático donde otro desarrollador examina el código escrito por un compañero para detectar errores, mejorar la calidad, garantizar buenas prácticas y asegurar que cumple con los requisitos funcionales y no funcionales del software.",
+      "des_ingles": "It is a systematic process where another developer examines code written by a colleague to detect errors, improve quality, ensure best practices, and ensure that it meets the functional and non-functional requirements of the software."
+    },
+    {
+      "espaniol": "Implementación continua",
+      "ingles": "Continuous deployment",
+      "des_espaniol": "es una práctica donde los cambios de código se integran y despliegan automáticamente en un entorno de producción de manera frecuente y regular.",
+      "des_ingles": "It is a practice where code changes are automatically integrated and deployed in a production environment on a frequent and regular basis."
+    },
+    {
+      "espaniol": "Tipo de datos abstracto",
+      "ingles": "Abstract Data Type",
+      "des_espaniol": "es una estructura que define un conjunto de datos y operaciones permitidas sobre esos datos sin especificar cómo se implementan esas operaciones",
+      "des_ingles": "is a structure that defines a set of data and allowed operations on that data without specifying how those operations are implemented"
+    },
+    {
+      "espaniol": "Multiplataforma",
+      "ingles": "Cross platform",
+      "des_espaniol": "se refiere a la capacidad de un software o aplicación para funcionar en diferentes sistemas operativos o plataformas sin necesidad de modificaciones significativas",
+      "des_ingles": "refers to the ability of a software or application to work on different operating systems or platforms without the need for significant modifications"
+    },
+    {
+      "espaniol": "Lista enlazada",
+      "ingles": "Linked list",
+      "des_espaniol": "es una estructura de datos donde cada elemento (nodo) contiene un valor y una referencia al siguiente nodo en la secuencia.",
+      "des_ingles": "It is a data structure where each element (node) contains a value and a reference to the next node in the sequence."
+    },
+    {
+      "espaniol": "Programacion dinamica",
+      "ingles": "Dynamic programming",
+      "des_espaniol": "es una técnica de optimización utilizada en programación para resolver problemas complejos dividiéndolos en subproblemas más simples y almacenando las soluciones a estos subproblemas para evitar recálculos innecesarios en el futuro.",
+      "des_ingles": "It is an optimization technique used in programming to solve complex problems by breaking them down into simpler subproblems and storing the solutions to these subproblems to avoid unnecessary recalculations in the future."
+    },
+    {
+      "espaniol": "Ordenamiento de burbuja",
+      "ingles": "Bubble sort",
+      "des_espaniol": "es un algoritmo sencillo de ordenamiento que funciona recorriendo repetidamente una lista de elementos. Compara cada par de elementos adyacentes y los intercambia si están en el orden incorrecto.",
+      "des_ingles": "It is a simple sorting algorithm that works by repeatedly going through a list of items. It compares each pair of adjacent items and swaps them if they're in the wrong order."
+    },
+    {
+      "espaniol": "Ordenamiento por mezcla",
+      "ingles": "Merge sort",
+      "des_espaniol": "es un algoritmo eficiente que sigue el principio de dividir y conquistar.",
+      "des_ingles": "It is an efficient algorithm that follows the principle of divide and conquer."
+    },
+    {
+      "espaniol": "Ordenamiento rapido",
+      "ingles": "Quick sort",
+      "des_espaniol": "es un algoritmo eficiente y recursivo de ordenamiento en programación.",
+      "des_ingles": "It is an efficient and recursive algorithm for ordering in programming."
+    }, 
+    {
+      "espaniol": "Busqueda binaria",
+      "ingles": "Binary search",
+      "des_espaniol": "es un algoritmo eficiente para encontrar un elemento en una lista ordenada",
+      "des_ingles": "is an efficient algorithm for finding an item in an ordered list"
+    },
+    {
+      "espaniol": "Conjunto",
+      "ingles": "Set",
+      "des_espaniol": "un conjunto es una estructura de datos que agrupa elementos únicos y no ordenados.",
+      "des_ingles": "A set is a data structure that groups together unique, unordered elements."
+    },
+    {
+      "espaniol": "Llamada a funcion",
+      "ingles": "Function call",
+      "des_espaniol": "es el acto de invocar o ejecutar una función previamente definida en el código.",
+      "des_ingles": "It is the act of invoking or executing a function previously defined in code."
+    },
+    {
+      "espaniol": "Asignacion de memoria",
+      "ingles": "Memory allocation",
+      "des_espaniol": "se refiere al proceso mediante el cual un programa reserva espacio en la memoria del sistema para almacenar datos durante su ejecución",
+      "des_ingles": "refers to the process by which a program reserves space in system memory to store data during its execution"
+    },
+    {
+      "espaniol": "Abstraccion de datos",
+      "ingles": "Data abstraction",
+      "des_espaniol": "se refiere al proceso de ocultar los detalles complejos de implementación de los datos y exponer solo las operaciones o características esenciales de esos datos.",
+      "des_ingles": "It refers to the process of hiding the complex implementation details of data and exposing only the essential operations or characteristics of that data."
+    },
+    {
+      "espaniol": "Complejidad de algoritmo",
+      "ingles": "Algorithm complexity",
+      "des_espaniol": "se refiere a la medida del tiempo y espacio que necesita para ejecutarse en función del tamaño de la entrada",
+      "des_ingles": "refers to the measure of time and space it needs to run based on the size of the input"
+    },
+    {
+      "espaniol": "Sincronizacion",
+      "ingles": "Synchronization",
+      "des_espaniol": "se refiere al proceso de coordinar la ejecución de múltiples hilos o procesos para evitar condiciones de carrera y garantizar que compartan recursos de manera ordenada y segura.",
+      "des_ingles": "refers to the process of coordinating the execution of multiple threads or processes to avoid race conditions and ensure that they share resources in an orderly and secure manner."
+    },
+    {
+      "espaniol": "Recoleccion de basura",
+      "ingles": "Garbage collection",
+      "des_espaniol": "es el proceso automático mediante el cual un lenguaje de programación gestiona la memoria utilizada por objetos que ya no son necesarios para liberar recursos y prevenir fugas de memoria",
+      "des_ingles": "is the automatic process by which a programming language manages the memory used by objects that are no longer needed in order to free resources and prevent memory leaks."
+    },
+    {
+      "espaniol": "Modelo en cascada", 
+      "ingles": "Waterfall model",
+      "des_espaniol": "es un enfoque secuencial y lineal para el desarrollo de software. Se divide en fases distintas y bien definidas, como requisitos, diseño, implementación, verificación y mantenimiento.",
+      "des_ingles": "is a sequential and linear approach to software development. It is divided into distinct and well-defined phases, such as requirements, design, implementation, verification and maintenance."
+    },
+    {
+      "espaniol": "Rama",
+      "ingles": "Branch",
+      "des_espaniol": "se refiere a una versión alterna o derivada del código principal de un proyecto de software",
+      "des_ingles": "refers to an alternate or derivative version of the main code of a software project."
+    },
+    {
+      "espaniol": "Solicitud de extraccion",
+      "ingles": "Pull request",
+      "des_espaniol": "es un mecanismo utilizado en sistemas de control de versiones como Git, donde un desarrollador propone cambios realizados en un repositorio de código.",
+      "des_ingles": "is a mechanism used in version control systems such as Git, where a developer proposes changes to a code repository."   
+    },
+    {
+      "espaniol": "Microservicios",
+      "ingles": "Microservices",
+      "des_espaniol": "son una arquitectura de desarrollo de software donde las aplicaciones se construyen como conjuntos de servicios pequeños e independientes, cada uno ejecutándose en su propio proceso y comunicándose mediante mecanismos ligeros",
+      "des_ingles": "are a software development architecture where applications are built as sets of small, independent services, each running in its own process and communicating through lightweight mechanisms."
+    },
+    {
+      "espaniol": "Sin servidor",
+      "ingles": "Serverless",
+      "des_espaniol": "Es un modelo en el que los desarrolladores pueden escribir y desplegar código en la nube sin preocuparse por la gestión directa de servidores.",
+      "des_ingles": "is a model in which developers can write and deploy code in the cloud without worrying about direct server management."
+    }, 
+    {
+      "espaniol": "Gestion de memoria",
+      "ingles": "Memory management",
+      "des_espaniol": "se refiere al proceso de administrar el uso de la memoria del sistema por parte de un programa.",
+      "des_ingles": "refers to the process of managing a program's use of system memory."
+    },
+    {
+      "espaniol": "Computacion en la nube",
+      "ingles": "Cloud computing",
+      "des_espaniol": "se refiere al uso de recursos informáticos, como servidores, almacenamiento y bases de datos, que están disponibles a través de internet y que pueden ser gestionados y escalados fácilmente según las necesidades del desarrollo de software.",
+      "des_ingles": "refers to the use of computing resources, such as servers, storage and databases, which are available over the Internet and can be easily managed and scaled according to the needs of software development."
+    },
+    {
+      "espaniol": "Mineria de datos",
+      "ingles": "Data mining",
+      "des_espaniol": "se refiere al proceso de descubrir patrones, tendencias y relaciones significativas en conjuntos de datos grandes y complejos.",
+      "des_ingles": "refers to the process of discovering meaningful patterns, trends and relationships in large and complex data sets."
+    },
+    {
+      "espaniol": "Extraccion de datos web",
+      "ingles": "Web scraping",
+      "des_espaniol": "se refiere al proceso de recoger información específica de páginas web de manera automatizada.",
+      "des_ingles": "refers to the process of collecting specific information from web pages in an automated manner."
+    },
+    {
+      "espaniol": "Aprendizaje automatico",
+      "ingles": "Machine learning",
+      "des_espaniol": "se refiere al uso de algoritmos y modelos estadísticos para permitir a las máquinas aprender patrones y tomar decisiones sin ser explícitamente programadas",
+      "des_ingles": "refers to the use of algorithms and statistical models to enable machines to learn patterns and make decisions without being explicitly programmed."
+    },
+    {
+      "espaniol": "Deteccion de objetos",
+      "ingles": "Object detection",
+      "des_espaniol": "se refiere al proceso mediante el cual un sistema informático identifica y localiza objetos específicos dentro de una imagen o video.",
+      "des_ingles": "refers to the process by which a computer system identifies and locates specific objects within an image or video."
+    },
+    {
+      "espaniol": "Reconocimiento de imagenes", 
+      "ingles": "Image recognition",
+      "des_espaniol": "se refiere al proceso de identificar y clasificar objetos, patrones o características dentro de imágenes digitales utilizando algoritmos y técnicas de procesamiento de imágenes",
+      "des_ingles": "refers to the process of identifying and classifying objects, patterns or features within digital images using image processing algorithms and techniques."
+    },
+    {
+      "espaniol": "Inteligencia artificial",
+      "ingles": "Artificial intelligence",
+      "des_espaniol": "se refiere al campo de la informática que desarrolla sistemas y algoritmos capaces de realizar tareas que normalmente requieren inteligencia humana.",
+      "des_ingles": "refers to the field of computer science that develops systems and algorithms capable of performing tasks that normally require human intelligence."
+    },
+    {
+      "espaniol": "Realidad virtual",
+      "ingles": "Virtual reality",
+      "des_espaniol": "es la creación de entornos digitales interactivos que simulan la experiencia sensorial y perceptiva del mundo real.",
+      "des_ingles": "is the creation of interactive digital environments that simulate the sensory and perceptual experience of the real world."
+    },
+    {
+      "espaniol": "Cadena de bloques",
+      "ingles": "Blockchain",
+      "des_espaniol": "es una estructura de datos distribuida y descentralizada que registra transacciones de manera cronológica y segura mediante bloques enlazados criptográficamente.",
+      "des_ingles": "is a distributed and decentralized data structure that records transactions chronologically and securely through cryptographically linked blocks."
+    },
+    {
+      "espaniol": "Computacion cuantica",
+      "ingles": "Quantum computing",
+      "des_espaniol": "se refiere al uso de algoritmos y técnicas diseñadas para aprovechar las propiedades únicas de los sistemas cuánticos",
+      "des_ingles": "refers to the use of algorithms and techniques designed to take advantage of the unique properties of quantum systems."
+    },
+    {
+      "espaniol": "Computacion paralela",
+      "ingles": "Parallel computing",
+      "des_espaniol": "se refiere al uso de múltiples procesadores o núcleos de CPU simultáneamente para resolver problemas computacionales más rápidamente.",
+      "des_ingles": "refers to the use of multiple processors or CPU cores simultaneously to solve computational problems faster."
+    },
+    {
+      "espaniol": "Computacion en el borde",
+      "ingles": "Edge computing",
+      "des_espaniol": "se refiere al diseño y la implementación de aplicaciones que procesan datos y ejecutan tareas directamente en dispositivos cercanos o en la periferia de una red, en lugar de depender exclusivamente de servidores remotos o en la nube.",
+      "des_ingles": "refers to the design and implementation of applications that process data and execute tasks directly on nearby devices or at the edge of a network, rather than relying exclusively on remote or cloud servers."
+    },
+    {
+      "espaniol": "Bandera de caracteristicas",
+      "ingles": "Feature flag",
+      "des_espaniol": "es una técnica que permite habilitar o deshabilitar funcionalidades específicas de un programa de software mediante la modificación de un solo parámetro.",
+      "des_ingles": "is a technique that allows enabling or disabling specific functionalities of a software program by modifying a single parameter."
+    },
+    {
+      "espaniol": "Desarrollo y operaciones",
+      "ingles": "DevOps",
+      "des_espaniol": "Esto se logra mediante la automatización de procesos, el uso compartido de herramientas y la cultura de mejora continua, facilitando una entrega más rápida y confiable de aplicaciones al mercado.",
+      "des_ingles": "This is achieved through process automation, tool sharing and a culture of continuous improvement, facilitating faster and more reliable delivery of applications to market."
+    },
+    {
+      "espaniol": "Contenerizacion",
+      "ingles": "Containerization",
+      "des_espaniol": "se refiere al uso de tecnologías como Docker para encapsular aplicaciones y sus dependencias en entornos autocontenidos y portátiles, llamados contenedores.",
+      "des_ingles": "refers to the use of technologies such as Docker to encapsulate applications and their dependencies in self-contained and portable environments, called containers."
+    },
+    {
+      "espaniol": "Observabilidad",
+      "ingles": "Observability",
+      "des_espaniol": "se refiere a la capacidad de entender y controlar el estado interno de un sistema en tiempo real, a través de métricas, registros (logs) y otras herramientas",
+      "des_ingles": "refers to the ability to understand and control the internal state of a system in real time, through metrics, logs and other tools."
+    },
+    {
+      "espaniol": "Arquitectura de software",
+      "ingles": "Software architecture",
+      "des_espaniol": "se refiere al diseño estructural de un sistema informático, que define sus componentes, estructura, interacciones y cómo se comporta el sistema.",
+      "des_ingles": "refers to the structural design of a computer system, which defines its components, structure, interactions and how the system behaves."
+    },
+    {
+      "espaniol": "Automatizacion de pruebas",
+      "ingles": "Test automation",
+      "des_espaniol": "es el proceso de usar herramientas y scripts para ejecutar pruebas de software de manera automatizada",
+      "des_ingles": "is the process of using tools and scripts to run software tests in an automated manner."
+    },
+    {
+      "espaniol": "Auditoria de seguridad",
+      "ingles": "Security audit",
+      "des_espaniol": "es un proceso sistemático de revisión y evaluación de código fuente, configuraciones y prácticas de desarrollo para identificar vulnerabilidades y riesgos de seguridad.",
+      "des_ingles": "is a systematic process of reviewing and evaluating source code, configurations and development practices to identify vulnerabilities and security risks."
+    },
+    {
+      "espaniol": "Ciberseguridad",
+      "ingles": "Cybersecurity",
+      "des_espaniol": "práctica de proteger sistemas, redes y programas de ataques cibernéticos mediante el uso de técnicas y medidas que aseguran la integridad, confidencialidad y disponibilidad de la información y los recursos digitales.",
+      "des_ingles": "The practice of protecting systems, networks and programs from cyber-attacks through the use of techniques and measures that ensure the integrity, confidentiality and availability of information and digital resources."
+    },
+    {
+      "espaniol": "Antivirus",
+      "ingles": "Antivirus",
+      "des_espaniol": "es un software diseñado para detectar, prevenir y eliminar programas maliciosos o código no deseado en sistemas informáticos.",
+      "des_ingles": "is software designed to detect, prevent and remove malicious programs or unwanted code on computer systems."
+    },
+    {
+      "espaniol": "Vulnerabilidad",
+      "ingles": "Vulnerability",
+      "des_espaniol": "se refiere a cualquier debilidad o error en el código de un software que puede ser explotado por un atacante para comprometer la seguridad del sistema.",
+      "des_ingles": "refers to any weakness or bug in software code that can be exploited by an attacker to compromise the security of the system."
+    },
+    {
+      "espaniol": "Acoplamiento",
+      "ingles": "Coupling",
+      "des_espaniol": "se refiere al grado de interdependencia entre los módulos o componentes de un sistema.",
+      "des_ingles": "refers to the degree of interdependence between the modules or components of a system."
+    },
+    {
+      "espaniol": "Desacoplamiento",
+      "ingles": "Decoupling",
+      "des_espaniol": "se refiere a la práctica de reducir las dependencias entre componentes de software",
+      "des_ingles": "refers to the practice of reducing dependencies between software components."
+    },
+    {
+      "espaniol": "Simulacion",
+      "ingles": "Mocking",
+      "des_espaniol": "es la técnica de modelar el comportamiento de sistemas reales o abstractos mediante la implementación de un modelo computacional.",
+      "des_ingles": "is the technique of modeling the behavior of real or abstract systems by implementing a computational model."
+    },
+    {
+      "espaniol": "Destructor",
+      "ingles": "destructor",
+      "des_espaniol": "es un método especial que se utiliza para liberar recursos asignados a un objeto cuando ya no se necesita.",
+      "des_ingles": "is a special method used to release resources allocated to an object when it is no longer needed."
+    },
+    {
+      "espaniol": "Publico",
+      "ingles": "Public",
+      "des_espaniol": "se refiere a un modificador de acceso que indica que un método, variable o clase es accesible desde cualquier parte del código, ya sea dentro del mismo paquete (en el caso de lenguajes como Java), módulo o aplicación.",
+      "des_ingles": "refers to an access modifier that indicates that a method, variable or class is accessible from anywhere in the code, either within the same package (in the case of languages such as Java), module or application."
+    },
+    {
+      "espaniol": "Privado",
+      "ingles": "Private",
+      "des_espaniol": "se refiere a un concepto de acceso que indica que ciertos métodos o variables de una clase solo pueden ser utilizados o accedidos desde dentro de esa misma clase.",
+      "des_ingles": "refers to an access concept that indicates that certain methods or variables of a class can only be used or accessed from within that same class."
+    }
+  ]
+}
