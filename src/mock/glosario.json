@@ -1265,6 +1265,246 @@
       "ingles": "Private",
       "des_espaniol": "se refiere a un concepto de acceso que indica que ciertos métodos o variables de una clase solo pueden ser utilizados o accedidos desde dentro de esa misma clase.",
       "des_ingles": "refers to an access concept that indicates that certain methods or variables of a class can only be used or accessed from within that same class."
+    },
+    {
+      "espaniol":"Constructor",
+      "ingles":"Construction",
+      "des_espaniol":"Método cuyo nombre es igual que el nombre de su tipo. Su firma del método incluye solo un modificador de acceso opcional, el nombre del método y su lista de parámetros; no incluye un tipo de valor devuelto.",
+      "des_ingles":"Method whose name is the same as the name of its type. Its method signature includes only an optional access modifier, the method name, and its parameter list; does not include a return type."
+    },
+    {
+      "espaniol":"Instancia",
+      "ingles":"Instance",
+      "des_espaniol":"Particularización, realización específica u ocurrencia de una determinada clase, entidad (modelo entidad-relación) o prototipo.",
+      "des_ingles":"Particularization, specific realization or occurrence of a certain class, entity (entity-relationship model) or prototype."
+    },
+    {
+      "espaniol":"Dart",
+      "ingles":"Dart",
+      "des_espaniol":"Dart es un lenguaje open source desarrollado en Google con el objetivo de permitir a los desarrolladores utilizar un lenguaje orientado a objetos y con análisis estático de tipo.",
+      "des_ingles":"Dart is an open source language developed at Google with the aim of allowing developers to use an object-oriented language with static type analysis."
+    },
+    {
+      "espaniol":"Netbeans",
+      "ingles":"Netbeans",
+      "des_espaniol":"Entorno de desarrollo integrado, gratuito y de código abierto para el desarrollo de aplicaciones en los sistemas operativos Windows, Mac, Linux y Solaris.",
+      "des_ingles":"Free and open source integrated development environment for developing applications on Windows, Mac, Linux and Solaris operating systems."
+    },
+    {
+      "espaniol":"Visual Studio",
+      "ingles":"Visual Studio",
+      "des_espaniol":"Plataforma de lanzamiento creativa que puede utilizar para editar, depurar y compilar código y, finalmente, publicar una aplicación.",
+      "des_ingles":"Creative launchpad that you can use to edit, debug, and compile code, and eventually publish an application."
+    },
+    {
+      "espaniol":"Entero",
+      "ingles":"Int",
+      "des_espaniol":"Es el tipo entero básico predeterminado. Puede representar todos los números enteros en un intervalo específico de la implementación.",
+      "des_ingles":"It is the default basic integer type. It can represent all integers in an implementation-specific range."
+    },
+    {
+      "espaniol":"String",
+      "ingles":"String",
+      "des_espaniol":"En cualquier lenguaje de programación, un string es una secuencia de caracteres usado para representar el texto.",
+      "des_ingles":"In any programming language, a string is a sequence of characters used to represent text."
+    },
+    {
+      "espaniol":"Double",
+      "ingles":"Double",
+      "des_espaniol":"Se utiliza principalmente en cálculos de programación para eliminar errores cuando se redondean valores decimales.",
+      "des_ingles":"It is primarily used in programming calculations to eliminate errors when rounding decimal values."
+    },
+    {
+      "espaniol":"Json",
+      "ingles":"Json",
+      "des_espaniol":"JSON se ha convertido en un formato de datos popular para los desarrolladores debido a su texto legible por humanos, que es ligero, requiere menos codificación y se procesa más rápido al no requerir deserialización.",
+      "des_ingles":"JSON has become a popular data format for developers due to its human-readable text, which is lightweight, requires less coding, and processes faster by not requiring deserialization."
+    },
+    {
+      "espaniol":"JFrame",
+      "ingles":"JFrame",
+      "des_espaniol":"Clase utilizada en Swing (biblioteca gráfica) para generar ventanas sobre las cuales añadir distintos objetos con los que podrá interactuar o no el usuario.",
+      "des_ingles":"Class used in Swing (graphics library) to generate windows on which to add different objects with which the user may or may not interact."
+    },
+    {
+      "espaniol":"JPanel",
+      "ingles":"JPanel",
+      "des_espaniol":"contenedor invisible que mantiene componentes de interfaz y que se puede anidar, colocándose en otros paneles o en ventanas.",
+      "des_ingles":"invisible container that holds interface components and can be nested, placed in other panels or windows."
+    },
+    {
+      "espaniol":"JLabel",
+      "ingles":"JLabel",
+      "des_espaniol":"un área de visualización de una cadena de texto o una imagen, o ambas.",
+      "des_ingles":"a display area of ​​a text string or an image, or both."
+    },
+    {
+      "espaniol":"Link",
+      "ingles":"Link",
+      "des_espaniol":"especifica la relación entre el documento actual y un recurso externo.",
+      "des_ingles":"specifies the relationship between the current document and an external resource."
+    },
+    {
+      "espaniol":"URL",
+      "ingles":"URL",
+      "des_espaniol":"mecanismo usado por los navegadores para obtener cualquier recurso publicado en la web.",
+      "des_ingles":"mechanism used by browsers to obtain any resource published on the web."
+    },
+    {
+      "espaniol":"NodeJS",
+      "ingles":"NodeJS",
+      "des_espaniol":"Este entorno de tiempo es open source, es decir, de código abierto, multiplataforma y que se ejecuta del lado del servidor.",
+      "des_ingles":"This time environment is open source, that is, open source, cross-platform and runs on the server side."
+    },
+    {
+      "espaniol":"Fondo",
+      "ingles":"Background",
+      "des_espaniol":"es un atajo para definir los valores individuales del fondo en una única regla CSS.",
+      "des_ingles":"is a shortcut to defining individual background values ​​in a single CSS rule."
+    },
+    {
+      "espaniol":"Pseint",
+      "ingles":"Pseint",
+      "des_espaniol":"es un intérprete de un lenguaje de programación basado en pseudocódigo",
+      "des_ingles":"is an interpreter of a pseudocode-based programming language"
+    },
+    {
+      "espaniol":"Pseudocodigo",
+      "ingles":"Pseudocode",
+      "des_espaniol":"conjunto estructurado de sentencias que se utiliza en informática para representar un algoritmo.",
+      "des_ingles":"structured set of statements used in computing to represent an algorithm."
+    },
+    {
+      "espaniol":"Diagrama de Flujo",
+      "ingles":"Flowchart",
+      "des_espaniol":"Se usan ampliamente en numerosos campos para documentar, estudiar, planificar, mejorar y comunicar procesos que suelen ser complejos en diagramas claros y fáciles de comprender.",
+      "des_ingles":"They are widely used in numerous fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams."
+    },
+    {
+      "espaniol":"Getter",
+      "ingles":"Getter",
+      "des_espaniol":"Los métodos que permiten acceder al valor de un atributo se denominan getters",
+      "des_ingles":"The methods that allow access to the value of an attribute are called getters."
+    },
+    {
+      "espaniol":"Setter",
+      "ingles":"Setter",
+      "des_espaniol":"los que fijan el valor de un atributo se denominan setters.",
+      "des_ingles":"Those who set the value of an attribute are called setters."
+    },
+    {
+      "espaniol":"Flutter",
+      "ingles":"Flutter",
+      "des_espaniol":"Los desarrolladores de front-end y pila completa utilizan Flutter para crear una interfaz de usuario (IU) de aplicación para varias plataforma con un único código base.",
+      "des_ingles":"Front-end and full-stack developers use Flutter to create a cross-platform application user interface (UI) with a single code base."
+    },
+    {
+      "espaniol":"Extension",
+      "ingles":"Extensions",
+      "des_espaniol":"Indican qué aplicación ha creado el archivo o puede abrirlo, y qué icono se debe utilizar para el archivo.",
+      "des_ingles":"They indicate which application created the file or can open it, and which icon should be used for the file."
+    },
+    {
+      "espaniol":"powershell",
+      "ingles":"Powershell",
+      "des_espaniol":"A diferencia de la mayoría de los shells que solo aceptan y devuelven texto, PowerShell acepta y devuelve objetos.",
+      "des_ingles":"Unlike most shells that only accept and return text, PowerShell accepts and returns objects."
+    },
+    {
+      "espaniol":"Administrador",
+      "ingles":"Admin",
+      "des_espaniol":"controlan y supervisan el procesamiento de trabajo a través de computadoras centrales de gran capacidad. Pueden cargar discos o cintas, y ejecutar programas.",
+      "des_ingles":"They control and supervise work processing through high-capacity mainframe computers. They can load disks or tapes, and run programs."
+    },
+    {
+      "espaniol":"imprimir",
+      "ingles":"Print",
+      "des_espaniol":"acción de mostrar información en la consola o en otro medio de salida.",
+      "des_ingles":"action of displaying information on the console or other output medium."
+    },
+    {
+      "espaniol":"Dato",
+      "ingles":"Data",
+      "des_espaniol":"Se denomina dato a cualquier objeto manipulable por el ordenador.",
+      "des_ingles":"Any object that can be manipulated by the computer is called data."
+    },
+    {
+      "espaniol":"Mientras",
+      "ingles":"While",
+      "des_espaniol":"estructura de control de flujo, concretamente lo que hace es repetir un código mientras dure una determinada condición.",
+      "des_ingles":"flow control structure, specifically what it does is repeat a code for the duration of a certain condition."
+    },
+    {
+      "espaniol":"Hacer mientras",
+      "ingles":"Do while",
+      "des_espaniol":"es aquella en que el cuerpo del bucle se repite mientras que se cumple una determinada condición",
+      "des_ingles":"is one in which the body of the loop repeats while a certain condition is met"
+    },
+    {
+      "espaniol":"Para",
+      "ingles":"For",
+      "des_espaniol":"permite repetir una instrucción o una instrucción compuesta un número especificado de veces.",
+      "des_ingles":"allows you to repeat an instruction or a compound instruction a specified number of times."
+    },
+    {
+      "espaniol":"Si",
+      "ingles":"If",
+      "des_espaniol":"permite que un programa decida si ejecuta una sentencia o un bloque de sentencias, en caso de que la condición sea verdadera, o bien si salta su ejecución, en caso de que la condición sea falsa.",
+      "des_ingles":"It allows a program to decide whether to execute a statement or a block of statements, if the condition is true, or whether to skip its execution, if the condition is false."
+    },
+    {
+      "espaniol":"Sino",
+      "ingles":"Else",
+      "des_espaniol":"especifica que se llevará a cabo un procesamiento alternativo cuando no se cumplan las condiciones de la declaración IF coincidente.",
+      "des_ingles":"specifies that alternative processing will be performed when the conditions of the matching IF statement are not met."
+    },
+    {
+      "espaniol":"Atributo",
+      "ingles":"Attribute",
+      "des_espaniol":"permite que un objeto conocido como atributo esté asociado a un tipo u otro elemento de programa.",
+      "des_ingles":"allows an object known as an attribute to be associated with a type or other program element."
+    },
+    {
+      "espaniol":"SetVisible",
+      "ingles":"SetVisible",
+      "des_espaniol":"muestra u oculta los objetos especificados por objeto.",
+      "des_ingles":"shows or hides objects specified by object"
+    },
+    {
+      "espaniol":"Main",
+      "ingles":"Main",
+      "des_espaniol":"sirve como punto de partida para la ejecución del programa.",
+      "des_ingles":"serves as a starting point for program execution."
+    },
+    {
+      "espaniol":"Importacion",
+      "ingles":"Import",
+      "des_espaniol":"implica copiar datos de archivos externos de diversas procedencias, como archivos de texto, hojas de cálculo, otras BD de Access",
+      "des_ingles":"involves copying data from external files from various sources, such as text files, spreadsheets, other Access databases"
+    },
+    {
+      "espaniol":"Retorno",
+      "ingles":"Return",
+      "des_espaniol":"termina la ejecución de una función y devuelve el control a la función de llamada.",
+      "des_ingles":"terminates the execution of a function and returns control to the calling function."
+    },
+    {
+      "espaniol":"Indice",
+      "ingles":"Index",
+      "des_espaniol":"estructura de datos que permite recuperar las filas de una tabla de forma más rápida además de proporcionar una ordenación distinta a la natural de la tabla.",
+      "des_ingles":"data structure that allows the rows of a table to be retrieved more quickly in addition to providing an ordering different from the natural order of the table."
+    },
+    {
+      "espaniol":"Try-catch",
+      "ingles":"Try-catch",
+      "des_espaniol":"Literalmente permite “intentar (try)” ejecutar el código y “atrapar (catch)” errores que pueden ocurrir en él.",
+      "des_ingles":"It literally allows you to “try” to execute the code and “catch” errors that may occur in it."
+    },
+    {
+      "espaniol":"Puerto",
+      "ingles":"Port",
+      "des_espaniol":"lugares virtuales en un sistema operativo en el que empiezan y terminan las conexiones de red.",
+      "des_ingles":"virtual places in an operating system where network connections begin and end."
     }
   ]
 }
