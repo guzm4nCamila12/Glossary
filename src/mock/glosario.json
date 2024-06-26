@@ -1505,6 +1505,60 @@
       "ingles":"Port",
       "des_espaniol":"lugares virtuales en un sistema operativo en el que empiezan y terminan las conexiones de red.",
       "des_ingles":"virtual places in an operating system where network connections begin and end."
+    },
+    {
+      "espaniol":"Capa de sockets seguros",
+      "ingles":"Secure Sockets Layer",
+      "des_espaniol":"es un tipo de seguridad estándar para garantizar que todos los datos estén encriptados en tránsito entre un sitio y un navegador, por ejemplo.",
+      "des_ingles":"is a type of standard security to ensure that all data is encrypted in transit between a site and a browser, for example."
+    },
+    {
+      "espaniol":"Puerta Trasera",
+      "ingles":"Backdoor",
+      "des_espaniol":"puerto creado por alguna aplicación maliciosa para establecer un canal de comunicación desde nuestro dispositivo hasta un punto en el que se puedan manipular nuestros datos o acciones.",
+      "des_ingles":"port created by some malicious application to establish a communication channel from our device to a point where our data or actions can be manipulated."
+    },
+    {
+      "espaniol":"Banda Ancha",
+      "ingles":"Bandwidth",
+      "des_espaniol":"Dice cuánto se puede viajar en una red.",
+      "des_ingles":"It says I know how much it can travel on a network."
+    },
+    {
+      "espaniol":"Evaluación Comparativa",
+      "ingles":"Benchmarking",
+      "des_espaniol":"herramienta utilizada para medir y comparar el rendimiento de una máquina.",
+      "des_ingles":"tool used to measure and compare the performance of a machine."
+    },
+    {
+      "espaniol":"Basic Input Output System",
+      "ingles":"Basic Input Output System",
+      "des_espaniol":"sistema utilizado para listar los dispositivos estándar de entrada (input) y salida (output) de una computadora",
+      "des_ingles":"system used to list the standard input and output devices of a computer"
+    },
+    {
+      "espaniol":"Red de Bots",
+      "ingles":"Botnet",
+      "des_espaniol":"red de computadoras interconectadas que realizan una o más tareas para las que fueron programadas.",
+      "des_ingles":"network of interconnected computers that perform one or more tasks for which they were programmed."
+    },
+    {
+      "espaniol":"Binary large object",
+      "ingles":"Binary large object",
+      "des_espaniol":"su objetivo en relación con la Base de Datos es siempre el almacenamiento de grandes cantidades de datos en formato de byte.",
+      "des_ingles":""
+    },
+    {
+      "espaniol":"Editor de Texto",
+      "ingles":"Text Editor",
+      "des_espaniol":"un editor de texto es una aplicación para editar archivos de texto.",
+      "des_ingles":"A text editor is an application for editing text files."
+    },
+    {
+      "espaniol":"Plugin",
+      "ingles":"Plugin",
+      "des_espaniol":"un extensión de código que se puede agregar a un código en el que estás trabajando.",
+      "des_ingles":"a code extension that can be added to a code you are working on."
     }
   ]
 }
