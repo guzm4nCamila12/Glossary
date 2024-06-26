@@ -15,7 +15,7 @@ function Body() {
             return <Card palabra={palabra} />;
         })
     }
-
+    
     return (
         <div className="contenedor">
             <div>
